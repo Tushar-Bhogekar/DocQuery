@@ -24,7 +24,7 @@ Our methodology involves:
 - Establishing an experimental setup to test the system across various datasets and scenarios.
 
 
-# **What We Found**
+## **What We Found**
 When we tested DocQuery:
 - It found information quickly and accurately.
 - It summarized texts well.
