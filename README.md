@@ -3,9 +3,9 @@ DocQuery is a cool project that helps make finding information in lots of docume
 In our busy world, it's hard to quickly find the right info from tons of documents. DocQuery uses super-smart AI to help find exactly what you need in a snap.
 
 # **Key Features**
-Chat with the System: You can talk to DocQuery just like chatting with a knowledgeable friend. Ask questions in regular language, and it'll understand and help you out.
-Doc Tools: There are special tools in DocQuery to help deal with lots of documents. These tools make it easier to find things quickly by breaking down the text, organizing it, and sorting it out super efficiently.
-Easy Interface: DocQuery's got a really easy way to use it. You can upload PDFs, type in text, and get the info you need in a way that's simple and interactive.
+- **Chat with the System**: You can talk to DocQuery just like chatting with a knowledgeable friend. Ask questions in regular language, and it'll understand and help you out.
+- **Doc Tools**: There are special tools in DocQuery to help deal with lots of documents. These tools make it easier to find things quickly by breaking down the text, organizing it, and sorting it out super efficiently.
+- **Easy Interface**: DocQuery's got a really easy way to use it. You can upload PDFs, type in text, and get the info you need in a way that's simple and interactive.
 
 # **System Architecture**
 DocQuery's architecture integrates multiple components, including:
