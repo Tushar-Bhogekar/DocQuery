@@ -30,7 +30,6 @@ When we tested DocQuery:
 - It summarized texts well.
 - People liked using it and found it easy.
 
-![Interface Of DoocQuery]((https://github.com/Tushar-Bhogekar/DocQuery/assets/122666543/9503904b-52d6-4294-9bd0-0a7228ef85a0)
-![Result Of DocQuery]([image_URL](https://github.com/Tushar-Bhogekar/DocQuery/assets/122666543/22aa743c-c2cb-4d3c-ad05-64e82bc81333)
+
 
 
